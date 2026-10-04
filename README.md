@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # ⚖️ Legal-Lens
@@ -318,3 +319,6 @@ Licensed under the [MIT License](LICENSE).
 **Built with love for Smart India Hackathon 2026**
 
 </div>
+=======
+# Legal-Lens
+>>>>>>> c2a16009769776620ae658d8f6541bd31d91b387
